@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "ruby": "html",
+    "html.erb": "html"
+  },
+  "files.associations": {
+    "*.html.erb": "erb",
+    "*.rb": "ruby"
+  }
+}
